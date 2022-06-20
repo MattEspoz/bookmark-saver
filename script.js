@@ -87,8 +87,8 @@ function fetchBookmarks() {
         // Bookmark Array in Local Storage
         bookmarks = [
             {
-                name: 'Matt Design',
-                url: 'https://mattespoz.com',
+                name: 'Matt`s Personal Website',
+                url: 'https://matthewespinoza.com/',
             },
         ];
         localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
